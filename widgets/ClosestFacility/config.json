@@ -3,7 +3,7 @@
         "url" : "https://services9.arcgis.com/L48elPyUkzKknhDs/arcgis/rest/services/dpap_educacion01/FeatureServer/0"
     },
     "closestFacilitySvc": {
-        "url" : "https://localhost:6443/arcgis/rest/services/rutas/RedMadrid/NAServer/Closest%20Facility"
+        "url" : "https://localhost/server/rest/services/ClosestFacilityDCN/RutasDCN/NAServer/Closest%20Facility"
     },
     "symbology" : {
         "routeZOrderAttrName" : "FacilityRank",
